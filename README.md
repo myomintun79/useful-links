@@ -19,5 +19,9 @@ https://www.lo4d.com/
 https://privadovpn.com/ \
 https://protonvpn.com/ \
 https://hide.me/en/ \
-https://www.tunnelbear.com/
+https://www.tunnelbear.com/ \
+https://windscribe.com/ \
+https://www.urban-vpn.com/free-products/free-windows-vpn/ \
+https://zoogvpn.com/ 
+
 
