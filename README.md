@@ -14,3 +14,10 @@ https://myanmar.gov.mm/en/-/pyidaungsu-fonts-and-keyboards
 https://filehippo.com/ \
 https://ninite.com/ \
 https://www.lo4d.com/
+
+# Best Free VPN
+https://privadovpn.com/ \
+https://protonvpn.com/ \
+https://hide.me/en/ \
+https://www.tunnelbear.com/
+
