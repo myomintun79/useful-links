@@ -10,6 +10,12 @@ http://mmunicode.org.mm/ \
 https://keymagic.net/downloads/ \
 https://myanmar.gov.mm/en/-/pyidaungsu-fonts-and-keyboards
 
+# ebook Download Links
+https://www.dhammaransi.com/index.php/2018-08-10-06-05-53/124-2018-01-06-02-38-45.html \
+https://www.dhammadownload.com/eBook-Myanmar.htm \
+https://www.mm-lib.com/ \
+http://www.kbrl.gov.mm/Catalog/Featured
+
 # Download Link များ
 https://filehippo.com/ \
 https://ninite.com/ \
