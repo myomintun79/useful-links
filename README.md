@@ -2,7 +2,8 @@
 for useful URL Links
 
 # Online P2P File Sharing
-https://toffeeshare.com/
+https://toffeeshare.com/ \
+https://www.justbeamit.com/
 
 # မြန်မာစာလုံးပေါင်းသတ်ပုံကျမ်း
 http://myanmarwords.pikay.org/ \
