@@ -5,6 +5,10 @@ for useful URL Links
 https://toffeeshare.com/ \
 https://www.justbeamit.com/
 
+# AI Tool
+https://chatgpt.com/ \
+https://www.craiyon.com/
+
 # မြန်မာစာလုံးပေါင်းသတ်ပုံကျမ်း
 http://myanmarwords.pikay.org/ \
 https://online.pubhtml5.com/shlu/bgzp/#p=1
