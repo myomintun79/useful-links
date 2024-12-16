@@ -31,7 +31,8 @@ https://ninite.com/ \
 https://www.lo4d.com/ \
 https://sanet.ws/ \
 Generate premium links \
-https://debridhub.com/
+https://debridhub.com/ \
+https://maxdebrid.com/
 
 # Best Free VPN
 https://privadovpn.com/ \
