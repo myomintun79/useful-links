@@ -28,7 +28,10 @@ http://www.kbrl.gov.mm/Catalog/Featured
 https://elhacker.info/ \
 https://filehippo.com/ \
 https://ninite.com/ \
-https://www.lo4d.com/
+https://www.lo4d.com/ \
+https://sanet.ws/ \
+Generate premium links \
+https://debridhub.com/
 
 # Best Free VPN
 https://privadovpn.com/ \
