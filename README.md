@@ -5,6 +5,10 @@ for useful URL Links
 https://toffeeshare.com/ \
 https://www.justbeamit.com/
 
+# Jitsi Meet
+https://meet.jit.si/ \
+https://jitsi.org/
+
 # AI Tool
 https://chatgpt.com/ \
 https://www.craiyon.com/
