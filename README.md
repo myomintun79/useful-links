@@ -11,7 +11,8 @@ https://jitsi.org/
 
 # AI Tool
 https://chatgpt.com/ \
-https://www.craiyon.com/
+https://www.craiyon.com/ \
+https://gemini.google.com/app/
 
 # မြန်မာစာလုံးပေါင်းသတ်ပုံကျမ်း
 http://myanmarwords.pikay.org/ \
