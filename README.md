@@ -41,7 +41,12 @@ https://www.lo4d.com/ \
 https://sanet.ws/ \
 Generate premium links \
 https://debridhub.com/ \
-https://maxdebrid.com/
+https://maxdebrid.com/ \
+Torrent
+https://torrentgalaxy.to/ \
+https://freecourseweb.com/ \
+
+
 
 # Best Free VPN
 https://privadovpn.com/ \
