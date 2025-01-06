@@ -9,6 +9,9 @@ https://www.justbeamit.com/
 https://meet.jit.si/ \
 https://jitsi.org/
 
+# Class Room Management System
+https://veyon.io/en/
+
 # AI Tool
 https://chatgpt.com/ \
 https://www.craiyon.com/ \
