@@ -5,6 +5,9 @@ for useful URL Links
 https://toffeeshare.com/ \
 https://www.justbeamit.com/
 
+# Percentage Calculator
+https://www.percentagecal.com/
+
 # Jitsi Meet
 https://meet.jit.si/ \
 https://jitsi.org/
