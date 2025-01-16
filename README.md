@@ -45,7 +45,7 @@ https://sanet.ws/ \
 Generate premium links \
 https://debridhub.com/ \
 https://maxdebrid.com/ \
-Torrent
+Torrent \
 https://torrentgalaxy.to/ \
 https://freecourseweb.com/ \
 
