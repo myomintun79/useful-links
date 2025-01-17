@@ -48,6 +48,8 @@ https://maxdebrid.com/ \
 Torrent \
 https://torrentgalaxy.to/ \
 https://freecourseweb.com/ \
+https://www.limetorrents.lol/ \
+https://www.torlock.com/
 
 
 
