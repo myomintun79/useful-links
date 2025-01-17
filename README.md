@@ -49,7 +49,8 @@ Torrent \
 https://torrentgalaxy.to/ \
 https://freecourseweb.com/ \
 https://www.limetorrents.lol/ \
-https://www.torlock.com/
+https://www.torlock.com/ \
+https://torrends.to/
 
 
 
