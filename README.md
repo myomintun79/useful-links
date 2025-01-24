@@ -42,6 +42,8 @@ https://filehippo.com/ \
 https://ninite.com/ \
 https://www.lo4d.com/ \
 https://sanet.ws/ \
+All Windows Server ISO \
+https://massgrave.dev/windows_server_links \
 Generate premium links \
 https://debridhub.com/ \
 https://maxdebrid.com/ \
