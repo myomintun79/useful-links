@@ -19,7 +19,9 @@ https://veyon.io/en/
 https://chatgpt.com/ \
 https://www.craiyon.com/ \
 https://gemini.google.com/app \
-https://copilot.microsoft.com/
+https://copilot.microsoft.com/ \
+https://chat.deepseek.com/ \
+https://grok.com/?referrer=website
 
 # မြန်မာစာလုံးပေါင်းသတ်ပုံကျမ်း
 http://myanmarwords.pikay.org/ \
