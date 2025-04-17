@@ -41,6 +41,7 @@ http://www.kbrl.gov.mm/Catalog/Featured
 # Download Link များ
 Games \
 https://gogunlocked.com/
+https://www.gamecopyworld.com/games/index.php \
 https://elhacker.info/ \
 https://filehippo.com/ \
 https://ninite.com/ \
