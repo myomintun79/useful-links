@@ -42,6 +42,7 @@ http://www.kbrl.gov.mm/Catalog/Featured
 Games \
 https://gogunlocked.com/
 https://www.gamecopyworld.com/games/index.php \
+https://oldgamesdownload.com/ \
 https://elhacker.info/ \
 https://filehippo.com/ \
 https://ninite.com/ \
