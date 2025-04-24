@@ -40,6 +40,7 @@ http://www.kbrl.gov.mm/Catalog/Featured
 
 # Download Link များ
 Games \
+https://www.4fnet.org/ \
 https://gogunlocked.com/ \
 https://www.gamecopyworld.com/games/index.php \
 https://oldgamesdownload.com/ \
