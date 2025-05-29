@@ -42,6 +42,8 @@ http://www.kbrl.gov.mm/Catalog/Featured
 https://ssyoutube.online/
 
 # Download Link များ
+Windows \
+https://www.microsoft.com/en-us/software-download \
 Games \
 https://www.4fnet.org/ \
 https://gogunlocked.com/ \
