@@ -39,7 +39,8 @@ https://www.mm-lib.com/ \
 http://www.kbrl.gov.mm/Catalog/Featured
 
 # Youtube Downloader
-https://ssyoutube.online/
+https://ssyoutube.online/ \
+https://en1.savefrom.net/1-youtube-video-downloader-8jH/
 
 # Download Link များ
 Windows \
