@@ -71,6 +71,7 @@ https://www.1377x.to/
 
 
 # Best Free VPN
+https://riseup.net/en/vpn \
 https://privadovpn.com/ \
 https://protonvpn.com/ \
 https://hide.me/en/ \
