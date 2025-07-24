@@ -32,6 +32,10 @@ http://mmunicode.org.mm/ \
 https://keymagic.net/downloads/ \
 https://myanmar.gov.mm/en/-/pyidaungsu-fonts-and-keyboards
 
+# Web Scraping
+https://webscraper.io/ \
+https://github.com/scrapinghub/portia?tab=readme-ov-file
+
 # ebook Download Links
 https://www.dhammaransi.com/index.php/2018-08-10-06-05-53/124-2018-01-06-02-38-45.html \
 https://www.dhammadownload.com/eBook-Myanmar.htm \
