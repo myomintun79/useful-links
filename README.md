@@ -77,8 +77,9 @@ https://torrends.to/ \
 https://www.1377x.to/
 
 
-
 # Best Free VPN
+https://xvpn.io/ \
+https://privadovpn.com/ \
 https://geph.io/en \
 https://riseup.net/en/vpn \
 https://privadovpn.com/ \
