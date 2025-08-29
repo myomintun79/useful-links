@@ -25,7 +25,9 @@ https://www.craiyon.com/ \
 https://gemini.google.com/app \
 https://copilot.microsoft.com/ \
 https://chat.deepseek.com/ \
-https://grok.com/?referrer=website
+https://grok.com/?referrer=website \
+Image \
+https://nanobanana.ai/
 
 # မြန်မာစာလုံးပေါင်းသတ်ပုံကျမ်း
 http://myanmarwords.pikay.org/ \
