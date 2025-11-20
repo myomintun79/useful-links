@@ -5,6 +5,10 @@ for useful URL Links
 https://www.profileme.dev/ \
 https://shields.io/
 
+# Vcard with QRCode
+https://www.qrcode-monkey.com/#vcard \
+https://freeqrtool.com/vcard-qr?utm_source=chatgpt.com
+
 # Online P2P File Sharing
 https://toffeeshare.com/ \
 https://www.justbeamit.com/
