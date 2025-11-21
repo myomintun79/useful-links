@@ -97,4 +97,10 @@ https://windscribe.com/ \
 https://www.urban-vpn.com/free-products/free-windows-vpn/ \
 https://zoogvpn.com/ 
 
+# Web Proxy Server
+https://www.blockaway.net/ \
+https://proxyorb.com/ \
+https://www.croxyproxy.rocks/ \
+https://hidester.one/
+
 
