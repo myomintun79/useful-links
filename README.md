@@ -53,6 +53,9 @@ https://www.dhammadownload.com/eBook-Myanmar.htm \
 https://www.mm-lib.com/ \
 http://www.kbrl.gov.mm/Catalog/Featured
 
+# Free VPS
+https://gratisvps.net/
+
 # Youtube Downloader
 https://ssyoutube.online/ \
 https://en1.savefrom.net/1-youtube-video-downloader-8jH/
