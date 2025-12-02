@@ -85,6 +85,7 @@ https://www.1377x.to/
 
 
 # Best Free VPN
+https://amnezia.org/ \
 https://github.com/ViRb3/wgcf \
 https://xvpn.io/ \
 https://privadovpn.com/ \
