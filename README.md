@@ -88,6 +88,7 @@ https://www.1377x.to/
 
 
 # Best Free VPN
+https://setupvpn.com/ \
 https://amnezia.org/ \
 https://github.com/ViRb3/wgcf \
 https://xvpn.io/ \
