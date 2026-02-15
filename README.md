@@ -59,7 +59,7 @@ https://gratisvps.net/
 # Typing Tutor
 https://rapidtyping.com/ \
 https://www.typingclub.com/ \
-
+https://www.typing.com/
 
 # Youtube Downloader
 https://ssyoutube.online/ \
