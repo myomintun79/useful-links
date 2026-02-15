@@ -56,6 +56,11 @@ http://www.kbrl.gov.mm/Catalog/Featured
 # Free VPS
 https://gratisvps.net/
 
+# Typing Tutor
+https://rapidtyping.com/ \
+https://www.typingclub.com/ \
+
+
 # Youtube Downloader
 https://ssyoutube.online/ \
 https://en1.savefrom.net/1-youtube-video-downloader-8jH/
