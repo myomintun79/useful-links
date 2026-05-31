@@ -68,6 +68,7 @@ https://en1.savefrom.net/1-youtube-video-downloader-8jH/
 # Download Link များ
 Windows \
 https://www.microsoft.com/en-us/software-download \
+https://crackshash.com/ \
 Games \
 https://www.4fnet.org/ \
 https://gogunlocked.com/ \
