@@ -23,16 +23,6 @@ https://jitsi.org/
 # Class Room Management System
 https://veyon.io/en/
 
-# AI Tool
-https://chatgpt.com/ \
-https://www.craiyon.com/ \
-https://gemini.google.com/app \
-https://copilot.microsoft.com/ \
-https://chat.deepseek.com/ \
-https://grok.com/?referrer=website \
-Image \
-https://nanobanana.ai/
-
 # မြန်မာစာလုံးပေါင်းသတ်ပုံကျမ်း
 https://www.mmproverbs.pro/2019/01/blog-post.html ‌\
 http://myanmarwords.pikay.org/ \
