@@ -24,6 +24,12 @@ https://jitsi.org/
 # Class Room Management System
 https://veyon.io/en/
 
+# Map
+https://qgis.org/ \
+https://www.terramapr.com/ \
+Landplot - GPS Field Mapping
+
+
 # မြန်မာစာလုံးပေါင်းသတ်ပုံကျမ်း
 https://www.mmproverbs.pro/2019/01/blog-post.html ‌\
 http://myanmarwords.pikay.org/ \
