@@ -48,7 +48,8 @@ https://github.com/scrapinghub/portia?tab=readme-ov-file
 https://www.dhammaransi.com/index.php/2018-08-10-06-05-53/124-2018-01-06-02-38-45.html \
 https://www.dhammadownload.com/eBook-Myanmar.htm \
 https://www.mm-lib.com/ \
-http://www.kbrl.gov.mm/Catalog/Featured
+http://www.kbrl.gov.mm/Catalog/Featured \
+https://www.doa.gov.mm/elibrary_new/?route=common/home
 
 # Free VPS
 https://gratisvps.net/
