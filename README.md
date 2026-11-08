@@ -2,7 +2,8 @@
 for useful URL Links
 
 # Education
-https://www.edge.com.mm/
+https://www.edge.com.mm/ \
+https://mmteacherplatform.net/en
 
 # github Profile
 https://www.youtube.com/watch?v=rCt9DatF63I&t=211s \
