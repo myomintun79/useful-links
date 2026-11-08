@@ -1,6 +1,9 @@
 # useful-links
 for useful URL Links
 
+# Education
+https://www.edge.com.mm/
+
 # github Profile
 https://www.youtube.com/watch?v=rCt9DatF63I&t=211s \
 https://www.profileme.dev/ \
